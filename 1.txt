@@ -1,0 +1,20 @@
+ROLE BASED ACCESS CONTROL (RBAC)
+
+We will be going to have 3 users
+    Admin
+    Teacher
+    Student
+
+Using
+    ExpressJS
+    Tailwind
+    PassportJS for local authentication
+    Authorization (admin, teacher and student routes)
+    Mongoose (ORM for MongoDB)
+    Express Sessions
+    Using Sessions to persist login after server reboot (using Mongo Store)
+    Redirect to same page after login
+    Validating user input server side
+    Flash messages
+    Handling HTTP errors
+    
